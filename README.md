@@ -65,11 +65,10 @@ graph TD
 
 To ensure a professional deployment and team alignment, we have built a comprehensive **Internal Wiki**. It serves as our technical headquarters, mapping our implementation steps directly to the **Cisco CCNA curriculum**.
 
-### 🚀 [Explore the BeCode Corp Wiki][(https://github.com/VOTRE_USER/VOTRE_REPO/wiki)
-](https://github.com/Mike00001/Establish_A_Network_Plan/wiki)
+### 🚀 [Explore the BeCode Corp Wiki](https://github.com/Mike00001/Establish_A_Network_Plan/wiki)
 | Section | Description |
 | :--- | :--- |
-| **[Survival Guide](https://github.com/VOTRE_USER/VOTRE_REPO/wiki/Project-Onboarding-and-CCNA-Guide)** | Onboarding for juniors & CCNA module mapping. |
+| **[Project Onboarding and CCNA Guide](https://github.com/Mike00001/Establish_A_Network_Plan/wiki/Project-Onboarding-and-CCNA-Guide)** | Onboarding & CCNA module mapping. |
 | **[Step-by-Step Roadmap](https://github.com/Mike00001/Establish_A_Network_Plan/wiki/Step-by-Step-Phase-1-Design)** | Phased implementation from Design to Security. |
 | **[Technical Deliverables](https://github.com/VOTRE_USER/VOTRE_REPO/wiki/2.-IP-Addressing-and-VLSM)** | VLSM Tables, Access Matrices, and Final Reports. |
 | **[Master Scripts](https://github.com/VOTRE_USER/VOTRE_REPO/wiki/Master-Configuration-Scripts)** | Ready-to-use Cisco CLI configurations. |
