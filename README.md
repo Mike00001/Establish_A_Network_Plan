@@ -59,5 +59,17 @@ graph TD
     SW_C --- V50
 ```
 
-## 📂 Repository Structure
-*(This section will be updated as we build the folder structure)*
+## 📖 Project Documentation & Roadmap
+
+To ensure a professional deployment and team alignment, we have built a comprehensive **Internal Wiki**. It serves as our technical headquarters, mapping our implementation steps directly to the **Cisco CCNA curriculum**.
+
+### 🚀 [Explore the BeCode Corp Wiki](https://github.com/VOTRE_USER/VOTRE_REPO/wiki)
+
+| Section | Description |
+| :--- | :--- |
+| **[Survival Guide](https://github.com/VOTRE_USER/VOTRE_REPO/wiki/Project-Onboarding-and-CCNA-Guide)** | Onboarding for juniors & CCNA module mapping. |
+| **[Step-by-Step Roadmap](https://github.com/VOTRE_USER/VOTRE_REPO/wiki/Step-by-Step-Phase-1-Design)** | Phased implementation from Design to Security. |
+| **[Technical Deliverables](https://github.com/VOTRE_USER/VOTRE_REPO/wiki/2.-IP-Addressing-and-VLSM)** | VLSM Tables, Access Matrices, and Final Reports. |
+| **[Master Scripts](https://github.com/VOTRE_USER/VOTRE_REPO/wiki/Master-Configuration-Scripts)** | Ready-to-use Cisco CLI configurations. |
+
+> 💡 **Tip for the Team:** Always check the **CCNA Mapping** in the Wiki before starting a new configuration phase to ensure best practices.
