@@ -68,8 +68,10 @@ To ensure a professional deployment and team alignment, we have built a comprehe
 | Section | Description |
 | :--- | :--- |
 | **[Survival Guide](https://github.com/VOTRE_USER/VOTRE_REPO/wiki/Project-Onboarding-and-CCNA-Guide)** | Onboarding for juniors & CCNA module mapping. |
-| **[Step-by-Step Roadmap](https://github.com/VOTRE_USER/VOTRE_REPO/wiki/Step-by-Step-Phase-1-Design)** | Phased implementation from Design to Security. |
+| **[Step-by-Step Roadmap]([https://github.com/VOTRE_USER/VOTRE_REPO/wiki/Step-by-Step-Phase-1-Design](https://github.com/Mike00001/Establish_A_Network_Plan/wiki/Step-by-Step-Phase-1-Design))** | Phased implementation from Design to Security. |
 | **[Technical Deliverables](https://github.com/VOTRE_USER/VOTRE_REPO/wiki/2.-IP-Addressing-and-VLSM)** | VLSM Tables, Access Matrices, and Final Reports. |
 | **[Master Scripts](https://github.com/VOTRE_USER/VOTRE_REPO/wiki/Master-Configuration-Scripts)** | Ready-to-use Cisco CLI configurations. |
+
+
 
 > 💡 **Tip for the Team:** Always check the **CCNA Mapping** in the Wiki before starting a new configuration phase to ensure best practices.
