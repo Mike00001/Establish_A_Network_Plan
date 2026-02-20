@@ -12,6 +12,7 @@ The objective of this project is to design the network infrastructure for the ne
 * **Core Services:** Configuration of DNS, DHCP, and an FTP storage server.
 * **Access Management:** Centralized AAA (Authentication, Authorization, and Accounting) service implementation.
 * **Traffic Filtering:** Strict ACL routing to secure communication between departments and critical servers.
+```mermaid
 graph TD
     %% Définitions de style (Texte forcé en noir avec color:#000000)
     classDef cloud fill:#e0f7fa,stroke:#006064,stroke-width:2px,color:#000000;
@@ -56,5 +57,7 @@ graph TD
     SW_C --- V40
     SW_C --- V41
     SW_C --- V50
+```
+
 ## 📂 Repository Structure
 *(This section will be updated as we build the folder structure)*
