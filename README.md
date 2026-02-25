@@ -1,12 +1,12 @@
-# BeCode Corp. - Secure Network Design 🏢🔒
+# BeCode Corp. - Secure Network Design 
 
 Welcome to the repository for the **BeCode Corp. Secure Network Design** project. 
 This repository centralizes all configurations, simulations, and documentation required to build a secure, scalable, and efficient enterprise network from scratch.
 
-## 🎯 Project Overview
+## Project Overview
 The objective of this project is to design the network infrastructure for the new BeCode Corp. office. We are using **Cisco Packet Tracer** to simulate and validate the network's connectivity, performance, and security.
 
-### 🛡️ Key Security & Network Features
+### Key Security & Network Features
 * **Network Segregation:** Implementation of VLANs across five distinct company sectors (Management, Study, Production, Support, IT).
 * **DMZ Implementation:** Secure isolation of external-facing services using VLANs and Access Control Lists (ACLs).
 * **Core Services:** Configuration of DNS, DHCP, and an FTP storage server.
@@ -61,10 +61,10 @@ graph TD
     SW_C --- V50
 ```
 
-## 📖 Project Documentation & Roadmap
+## Project Documentation & Roadmap
 
 To ensure a professional deployment and team alignment, we have built a comprehensive **Internal Wiki**. It serves as our technical headquarters, mapping our implementation steps directly to the **Cisco CCNA curriculum**.
 
-### 🚀 [Explore the BeCode Corp Wiki](https://github.com/Mike00001/Establish_A_Network_Plan/wiki)
+### [Explore the BeCode Corp Wiki](https://github.com/Mike00001/Establish_A_Network_Plan/wiki)
 
-> 💡 **Tip for the Team:** Always check the **CCNA Mapping** in the Wiki before starting a new configuration phase to ensure best practices.
+>  **Tip for the Team:** Always check the **CCNA Mapping** in the Wiki before starting a new configuration phase to ensure best practices.
