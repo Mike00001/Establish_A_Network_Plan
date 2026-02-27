@@ -1,0 +1,33 @@
+enable
+configure terminal
+hostname SW-ACC-B
+
+enable
+configure
+interface vlan 1
+ip address 192.168.10.5 255.255.255.0
+no shutdown
+exit
+
+enable secret C1sc0_Stong_Pass!
+line console 0
+password Console_Access_42
+login
+exit
+
+service password-encryption
+banner motd # Access restricted! Monitored activities.#
+exit
+
+show running-config
+
+
+ip domain-name becode.corp
+crypto key generate rsa
+
+username admin privilege 15 secret Ciber_Security_2026!
+
+line vty 0 15
+transport input ssh
+login local
+exit
